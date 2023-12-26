@@ -1,6 +1,1 @@
-Confira o resultado das questões:
-
-Questão 1:
-Questão 2:
-Questão 3:
-Questão 4:
+Resolução das questões dos exercícios de Progressão de Módulo (MD1) do curso de PHP da UTD.
